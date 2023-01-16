@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-14T15:46:07 EET" name="Command line suite" finished-at="2023-01-14T15:46:13 EET" duration-ms="5924">
+    <groups>
+    </groups>
+    <test started-at="2023-01-14T15:46:07 EET" name="Command line test" finished-at="2023-01-14T15:46:13 EET" duration-ms="5924">
+      <class name="TestArchiveList">
+        <test-method signature="archiveList()[pri:0, instance:TestArchiveList@236e3f4e]" started-at="2023-01-14T15:46:07 EET" name="archiveList" finished-at="2023-01-14T15:46:08 EET" duration-ms="1711" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- archiveList -->
+      </class> <!-- TestArchiveList -->
+      <class name="TestGetLists">
+        <test-method signature="getLists()[pri:0, instance:TestGetLists@41c2284a]" started-at="2023-01-14T15:46:11 EET" name="getLists" finished-at="2023-01-14T15:46:11 EET" duration-ms="416" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getLists -->
+      </class> <!-- TestGetLists -->
+      <class name="TestDeleteOrganization">
+        <test-method signature="deleteOrganization()[pri:0, instance:TestDeleteOrganization@1329eff]" started-at="2023-01-14T15:46:11 EET" name="deleteOrganization" finished-at="2023-01-14T15:46:11 EET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteOrganization -->
+      </class> <!-- TestDeleteOrganization -->
+      <class name="TestDeleteBoard">
+        <test-method signature="deleteBoard()[pri:0, instance:TestDeleteBoard@c03cf28]" started-at="2023-01-14T15:46:10 EET" name="deleteBoard" finished-at="2023-01-14T15:46:11 EET" duration-ms="499" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteBoard -->
+      </class> <!-- TestDeleteBoard -->
+      <class name="TestCreateOrganization">
+        <test-method signature="createOrganization()[pri:0, instance:TestCreateOrganization@1356d4d4]" started-at="2023-01-14T15:46:10 EET" name="createOrganization" finished-at="2023-01-14T15:46:10 EET" duration-ms="606" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createOrganization -->
+      </class> <!-- TestCreateOrganization -->
+      <class name="TestCreateBoard">
+        <test-method signature="createBoard()[pri:0, instance:TestCreateBoard@3c947bc5]" started-at="2023-01-14T15:46:08 EET" name="createBoard" finished-at="2023-01-14T15:46:09 EET" duration-ms="616" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createBoard -->
+      </class> <!-- TestCreateBoard -->
+      <class name="TestGetUser">
+        <test-method signature="getUSer()[pri:0, instance:TestGetUser@46fa7c39]" started-at="2023-01-14T15:46:12 EET" name="getUSer" finished-at="2023-01-14T15:46:13 EET" duration-ms="1025" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getUSer -->
+      </class> <!-- TestGetUser -->
+      <class name="TestGetBoards">
+        <test-method signature="getBoards()[pri:0, instance:TestGetBoards@6497b078]" started-at="2023-01-14T15:46:11 EET" name="getBoards" finished-at="2023-01-14T15:46:11 EET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getBoards -->
+      </class> <!-- TestGetBoards -->
+      <class name="TestGetOrganizations">
+        <test-method signature="getOrganizations()[pri:0, instance:TestGetOrganizations@53aad5d5]" started-at="2023-01-14T15:46:11 EET" name="getOrganizations" finished-at="2023-01-14T15:46:12 EET" duration-ms="494" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getOrganizations -->
+      </class> <!-- TestGetOrganizations -->
+      <class name="TestCreateList">
+        <test-method signature="createList()[pri:0, instance:TestCreateList@609db43b]" started-at="2023-01-14T15:46:09 EET" name="createList" finished-at="2023-01-14T15:46:10 EET" duration-ms="466" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createList -->
+      </class> <!-- TestCreateList -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>

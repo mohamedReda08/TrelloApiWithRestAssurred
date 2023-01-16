@@ -1,0 +1,17 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="REST Assured test examples">
+    <test name="All">
+        <classes>
+            <class name="TestGetUser"/>
+            <class name="TestCreateOrganization"/>
+            <class name="TestGetOrganizations"/>
+            <class name="TestCreateBoard"/>
+            <class name="TestGetBoards"/>
+            <class name="TestCreateList"/>
+            <class name="TestGetLists"/>
+            <class name="TestArchiveList"/>
+            <class name="TestDeleteBoard"/>
+            <class name="TestDeleteOrganization"/>
+        </classes>
+    </test>
+</suite>
